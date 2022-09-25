@@ -1,6 +1,6 @@
 lista = {
-    'piekarni': ['chleb', 'bułki', 'pączka'],
-    'warzywniaka': ['marchew', 'seler', 'rukolę']
+    'piekarni': ['chleb', 'bułki', 'pączka', 'drożdzówkę'],
+    'warzywniaka': ['marchew', 'seler', 'rukolę', 'pietruszkę']
 }
 things = 0
 
